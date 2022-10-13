@@ -1,8 +1,9 @@
-// import 'package:dart_application_1/dart_application_1.dart';
 import 'package:test/test.dart';
 
 void main() {
-  test('calculate', () {
-    // expect(calculate(), 42);
-  });
+  // test('Listar Produto', () {
+  //   List<String> produtosListMock = ['Arroz', 'Feijão', 'Batata', 'Bife'];
+  //   expect(listarProdutos(produtosListMock),
+  //       ['Arroz', 'Feijão', 'Batata', 'Bife']);
+  // });
 }
