@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:dart_application_1/lista_de_produtos/lista_de_produtos.dart';
+import 'package:dart_application_1/variables/lista_de_produtos.dart';
 import 'package:dart_application_1/utils/utils.dart';
 
 adicionaProduto() {
