@@ -5,7 +5,6 @@ import 'package:dart_application_1/utils/utils.dart';
 
 alterarProduto() {
   bool _condicao2 = true;
-  List<String> listNovoProduto = [];
 
   while (_condicao2) {
     print('--------------------------------------');

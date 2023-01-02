@@ -11,8 +11,7 @@ void main() {
   print('======== LISTA DE COMPRAS ==========');
 
   while (condicao) {
-    print(
-        '''
+    print('''
       Escolha uma opção:
       (1) Incluir produto na lista
       (2) Consultar Lista
@@ -20,6 +19,7 @@ void main() {
       (4) Excluir produto da lista
       (5) Sair
     ''');
+
     String? comando = stdin.readLineSync();
 
     if (comando == '1') adicionaProduto();
